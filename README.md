@@ -18,8 +18,6 @@
 
 jQuery          --          https://jquery.com/
 
-Bootstrap       --          https://getbootstrap.com/
-
 Font-Awesome    --          http://fontawesome.io/
 
 Bootstrap       --          http://blog.getbootstrap.com/2018/01/18/bootstrap/
